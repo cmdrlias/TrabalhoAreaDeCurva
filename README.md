@@ -1,4 +1,4 @@
 # TrabalhoAreaDeCurva
-# Trabalho em Java
-# Código implementado por: Larissa Isabel Abreu e Silva
-# Professor: João Paulo
+Trabalho em Java <br>
+Código implementado por: Larissa Isabel Abreu e Silva<br>
+Professor: João Paulo
